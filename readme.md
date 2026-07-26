@@ -10,7 +10,7 @@ Here I propose SLUFI, a **Simple, Lightweight, Unopinionated, Federation Interco
 
 The rest of this post is going to be a relatively technical description of how federation could be achieved across network boundaries. The target audience know who they are, and everybody else can feel free to stop reading here.
 
-[!slufi](https://raw.githubusercontent.com/cjdelisle/slufi/refs/heads/master/images/slufi.png)
+![slufi](https://raw.githubusercontent.com/cjdelisle/slufi/refs/heads/master/images/slufi.png)
 
 Forgive the slop, I couldn’t resist
 
